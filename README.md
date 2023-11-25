@@ -1,13 +1,13 @@
-# Tugas Akhir Mata Kuliah Pembelajaran Mesin
+# Penyefonk Tugas Akhir Mata Kuliah Pembelajaran Mesin
 
-## Prediksi Kesehatan Tidur dan Gaya Hidup Menggunakan Decision Tree
+<p>Prediksi Kesehatan Tidur dan Gaya Hidup Menggunakan Decision Tree<p>
 
 ## Anggota Kelompok
 
 | Nama                       | NIM            |
 | -------------------------- | -------------- |
 | Adri Audifirst             | 24060121140152 |
-| Apriyanto Siburian         | 69             |
+| Apriyanto Siburian         | 24060121120022 |
 | Mochammad Dzahwan Fadhloly | 24060121140168 |
 | Muhammad Haikal Ali        | 24060121130064 |
 
@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://github.com/mdzahwan21">
-<img src="https://github.com/mdzahwan21.png" width="10%" height="10%" align="left" style="margin-right: 10px;"/>
+<img src="https://github.com/mdzahwan21.png" width="10%" height="10%" border-rounded="100px" align="left" style="margin-right: 10px;"/>
 </a>
 
 <a href="https://github.com/haikalass">
