@@ -1,6 +1,6 @@
 # Tugas Akhir Mata Kuliah Pembelajaran Mesin
 
-<p>Prediksi Kesehatan Tidur dan Gaya Hidup Menggunakan Decision Tree<p>
+<p>Prediksi Stress Level Seseorang Menggunakan Decision Tree<p>
 
 ## Anggota Kelompok
 
