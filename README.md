@@ -1,4 +1,4 @@
-# Penyefonk Tugas Akhir Mata Kuliah Pembelajaran Mesin
+# Tugas Akhir Mata Kuliah Pembelajaran Mesin
 
 <p>Prediksi Kesehatan Tidur dan Gaya Hidup Menggunakan Decision Tree<p>
 
@@ -19,8 +19,8 @@
 <img src="https://github.com/mdzahwan21.png" width="10%" height="10%" border-rounded="100px" align="left" style="margin-right: 10px;"/>
 </a>
 
-<a href="https://github.com/haikalass">
-<img src="https://github.com/haikalass.png" width="10%" height="10%" align="left" style="margin-right: 10px;"/>
+<a href="https://github.com/haikalassegaf">
+<img src="https://github.com/haikalassegaf.png" width="10%" height="10%" align="left" style="margin-right: 10px;"/>
 </a>
 
 <a href="https://github.com/aprilrian">
