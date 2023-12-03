@@ -12,8 +12,8 @@
 | Muhammad Haikal Ali        | 24060121130064 |
 
 <p align="center">
-<img src="https://github.com/hanyaseorangpelajar.png" style="border-radius: 50px; overflow: hidden;" width="10%" height="10%"/>
-<img src="https://github.com/mdzahwan21.png" style="border-radius: 50px; overflow: hidden;" width="10%" height="10%"/>
-<img src="https://github.com/haikalassegaf.png" style="border-radius: 50px; overflow: hidden;" width="10%" height="10%"/>
-<img src="https://github.com/aprilrian.png" style="border-radius: 50px; overflow: hidden;" width="10%" height="10%"/>
+<img src="https://github.com/hanyaseorangpelajar.png" width="10%" height="10%"/>
+<img src="https://github.com/mdzahwan21.png" width="10%" height="10%"/>
+<img src="https://github.com/haikalassegaf.png" width="10%" height="10%"/>
+<img src="https://github.com/aprilrian.png" width="10%" height="10%"/>
 </p>
