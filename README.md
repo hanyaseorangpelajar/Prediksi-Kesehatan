@@ -1,8 +1,11 @@
-# Tugas Akhir Mata Kuliah Pembelajaran Mesin
+<div align="center">
+  <h1>Prediksi Stress Level Seseorang Menggunakan Decision Tree</h1>
+</div>
 
-<p>Prediksi Stress Level Seseorang Menggunakan Decision Tree<p>
+<br/>
 
-## Anggota Kelompok
+<div align="center">
+<strong>Anggota Kelompok</strong>
 
 | Nama                       | NIM            |
 | -------------------------- | -------------- |
@@ -11,18 +14,13 @@
 | Mochammad Dzahwan Fadhloly | 24060121140168 |
 | Muhammad Haikal Ali        | 24060121130064 |
 
-<a href="https://github.com/hanyaseorangpelajar">
-<img src="https://github.com/hanyaseorangpelajar.png" width="10%" height="10%" align="left" style="margin-right: 10px;"/>
-</a>
+</div>
 
-<a href="https://github.com/mdzahwan21">
-<img src="https://github.com/mdzahwan21.png" width="10%" height="10%" border-rounded="100px" align="left" style="margin-right: 10px;"/>
-</a>
+<br/>
 
-<a href="https://github.com/haikalassegaf">
-<img src="https://github.com/haikalassegaf.png" width="10%" height="10%" align="left" style="margin-right: 10px;"/>
-</a>
-
-<a href="https://github.com/aprilrian">
-<img src="https://github.com/aprilrian.png" width="10%" height="10%" align="left" style="margin-right: 10px;"/>
-</a>
+<div align="center">
+  <a href="https://github.com/hanyaseorangpelajar/prediksi-kesehatan/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=hanyaseorangpelajar/prediksi-kesehatan" />
+  </a>
+  <p>Developer</p>
+</div>
